@@ -1,0 +1,10 @@
+F:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\bin\Debug\prjWaitForProcessStart.exe.config
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\bin\Debug\prjWaitForProcessStart.exe.config
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\bin\Debug\prjWaitForProcessStart.exe
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\bin\Debug\prjWaitForProcessStart.pdb
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\obj\Debug\prjWaitForProcessStart.csprojResolveAssemblyReference.cache
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\obj\Debug\prjWaitForProcessStart.exe
+E:\Development\CSharp\Examples\slnWaitForProcessStart\prjWaitForProcessStart\obj\Debug\prjWaitForProcessStart.pdb
+E:\Development\CSharp\Examples\Wait For Process Start\prjWaitForProcessStart\bin\Debug\prjWaitForProcessStart.exe.config
+E:\Development\CSharp\Examples\Wait For Process Start\prjWaitForProcessStart\obj\Debug\prjWaitForProcessStart.exe
+E:\Development\CSharp\Examples\Wait For Process Start\prjWaitForProcessStart\obj\Debug\prjWaitForProcessStart.pdb
