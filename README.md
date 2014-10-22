@@ -7,4 +7,4 @@ Projects
 ========
 
 1) Wait For Process Start
-  --> This program demonstrates an elegant way to wait for a program to fire an event (often through initialization).
+    This program demonstrates an elegant way to wait for a program to fire an event (often through initialization).
